@@ -8,18 +8,17 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
-
+My program perfroms the tasks asked in the assignemnt. They race and michelangelo(green) wins and proceeds to do a happy dance in the form of fun shapes, but does not forget to clean up after he is done! 
 ## GRACE DAYS
 Grace days used for this assignment: < # >
 
 Grace days remaining: < # >/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ None. 
 
 ## REFERENCES:
- < List any outside resources used >
+https://docs.python.org/3/library/turtle.html?highlight=speed#turtle.speed
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+It was not asked to slow it down, but I wanted to so I tried finding the code to slow their movements but gave up on it after some time. 
